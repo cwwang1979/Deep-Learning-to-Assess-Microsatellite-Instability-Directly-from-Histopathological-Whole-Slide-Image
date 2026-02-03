@@ -1,7 +1,7 @@
 # Deep Learning to Assess Microsatellite Instability Directly from Histopathological Whole Slide Images in Endometrial Cancer
 
 ## Associated Publications
-- (ACCEPTED) Wang et al. (2024) Deep Learning to Assess Microsatellite Instability Directly from Histopathological Whole Slide Images in Endometrial Cancer, NPJ Digital Medicine (JCR 2022: IF=15.2, 1/106 Health Care Sciences & Services)
+Ching-Wei Wang; Hikam Muzakky; Nabila Puspita Firdi; Tzu-Chien Liu; Po-Jen Lai; Yu-Chi Wang; Mu-Hsien Yu; Tai-Kuang Chao (2024) Deep learning to assess microsatellite instability directly from histopathological whole slide images in endometrial cancer, npj Digital Medicine 7, 143 (JCR 2024: IF=15.1, Q1 1/185 Health Care Sciences & Services) [First author]
 
 ## Setup
 
